@@ -43,6 +43,7 @@ EMAIL_PASSWORD=your_app_password
 
 ---
 # 🙏 Thank You
+I made this project as a part of a Udemy course. So special Thanks to Dr. Angela Yu for your assistance. 
 Thank you for checking out this project!
 If you found it useful or learned something new, feel free to ⭐️ star the repo or share it with others.
 
